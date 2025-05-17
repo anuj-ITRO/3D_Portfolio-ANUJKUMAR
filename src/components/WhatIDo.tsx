@@ -90,8 +90,8 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Future AI SaaS Tycoon | Founder @ ITRO & Inficloud | AI + Automation Enthusiast | Building the Next Global Tech Giant | Web & App Dev Learner
+                
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
